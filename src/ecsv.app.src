@@ -1,6 +1,6 @@
 {application, ecsv,
  [
-  {description, ""},
+  {description, "Erlang CSV parsing and generation library"},
   {vsn, "1"},
   {registered, []},
   {applications, [
